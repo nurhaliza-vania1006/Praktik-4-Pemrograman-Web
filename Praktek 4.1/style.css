@@ -1,0 +1,67 @@
+.flex {
+    display: flex;
+    align-items: center;
+}
+.fieldset {
+    margin: 25px;
+    max-width: 50%;
+    border-color: black;
+}
+.profile-name {
+    padding-left: 25px;
+}
+.nama {
+    padding-left: 25px;
+}
+.jalan {
+    padding-left: 25px;
+}
+.alamat{
+    padding-left: 25px;
+}
+.p {
+    padding-left: 25px;
+}
+.email{
+    padding-left: 25px;
+}
+.telephone{
+    padding-left: 25px;
+}
+.categories{
+    padding-right: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+.isi{
+    padding-left: 25px;
+    line-height: 21px;
+    text-align: justify;
+}
+.isi2 {
+    padding-left: 25px;
+    line-height: 21px;
+    text-align: justify;
+}
+.video{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+.column{
+    float: left;
+    width: 33.33%;
+    padding-left: 25px;
+    margin: 25px;
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.fieldset2 {
+    margin: 10px;
+    border-color: black;
+    width: 150px;
+    height: 130px;
+}

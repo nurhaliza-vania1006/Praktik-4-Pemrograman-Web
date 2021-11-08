@@ -1,0 +1,36 @@
+.style{
+    background-color:white;
+    border: 1px solid;
+    width: 60%;
+}
+.div1 {
+    border-bottom: 1px solid;
+    width: 100%;
+    background-color: rgb(177, 175, 175);
+}
+.table1 {
+    width: 100%;
+    font-size: 15px;
+}
+.div2 {
+    border: 0px solid;
+    display: flex;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.table2{
+    width: 35%;
+    background-color: rgb(177, 175, 175);
+    height: 45%;
+    padding: 20px;
+}
+.div3{
+    border-top: 1px solid;
+    width: 100%;
+}
+.table3{
+    width: 100%;
+    font-size: 15px;
+}
+
